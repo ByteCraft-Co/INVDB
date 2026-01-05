@@ -51,4 +51,4 @@ fn main() -> invdb::InvResult<()> {
 - Library-first; CLI is intentionally omitted.
 
 ## License
-- TODO (MIT LICENSE)
+- (MIT LICENSE)
